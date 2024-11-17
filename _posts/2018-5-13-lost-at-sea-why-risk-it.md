@@ -1,7 +1,3 @@
-layout: page
-title: "lost-at-sea-why-risk-it"
-permalink: /lost-at-sea-why-risk-it
-
 ---
 ---
 
