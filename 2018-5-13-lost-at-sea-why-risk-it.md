@@ -5,8 +5,6 @@ permalink: /lost-at-sea-why-risk-it
 ---
 ---
 
-2018/5/13/lost-at-sea-why-risk-it
-
 I’ve recently seen some commentary that Personal Locator Beacons (PLB) aren’t needed with Ocean Rowing adventures/ expeditions/ trips.
 
 I think that’s a foolish mindset and doesn’t acknowledge the many benefits that this personal device gives you.
