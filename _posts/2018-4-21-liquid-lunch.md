@@ -1,5 +1,7 @@
 Liquid Lunch
 
+April 21 2018
+
 The overall meal plan for the trip is 6000 calories per rower per day. This consists of a meal plan built around 5 meals of 800 calories. Read more about my meal plan, here.
 
 But that's only 4000 calories. We still need to consume an additional 2000 calories daily. 
