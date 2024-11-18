@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meal Repitition Part 2"
+title:  "Meal Repetition Part 2"
 categories: basics
 nav_order: date
 parent: Ocean Rowing Basics
