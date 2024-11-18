@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Liquid Lunch"
+categories: basics
+nav_order: date
+parent: Ocean Rowing Basics
+---
+
 Liquid Lunch
 
 April 21 2018

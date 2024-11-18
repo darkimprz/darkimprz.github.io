@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Ocean Rowing Basics"
+date:   2018-2-1
+nav_order: date
+categories: jekyll update
+---
 The Basics
 Ocean rowing information seems as hard to find as the training is to do. Exhaustive searching day in and out for loosely associated information seems to be the norm. Here's my attempt at relieving some of the research burden and making the information a bit more accessible
 

@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Food Time: Meal Pattern Repitition"
+categories: basics
+nav_order: date
+parent: Ocean Rowing Basics
+---
+
+
 This is Part 1 of a series of posts about food for the trip.
 
 Enjoying your favorite foods is amazing. Eating your favorite foods for every meal, every 2 hours, over the course of 7 weeks, is a surefire way to change favorite to repulsive.

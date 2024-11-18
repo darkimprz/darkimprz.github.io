@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "Meal Repitition Part 2"
+categories: basics
+nav_order: date
+parent: Ocean Rowing Basics
+---
 Meal Pattern Repetition: Part 2
 April 21, 2018 in Food
 This is Part 2 of Meal Pattern Repitition. See Part 1 for the beginning.

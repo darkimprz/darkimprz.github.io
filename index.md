@@ -4,3 +4,4 @@
 
 layout: home
 ---
+{: .no_toc }

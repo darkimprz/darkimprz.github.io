@@ -1,4 +1,9 @@
 ---
+layout: post
+title:  "Lost at Sea Why Risk It"
+categories: basics
+nav_order: date
+parent: Ocean Rowing Basics
 ---
 
 I’ve recently seen some commentary that Personal Locator Beacons (PLB) aren’t needed with Ocean Rowing adventures/ expeditions/ trips.

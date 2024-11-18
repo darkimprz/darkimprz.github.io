@@ -1,5 +1,12 @@
+---
+layout: post
+title:  "Foul Weather Jackets - First Observations"
+date:   2018-4-18
+nav_order: date
+categories: jekyll update
+parent: The Basics
+---
 
-Foul Weather Jackets - First Observations
 April 19, 2018
 While we all want to look like a Volvo Ocean racer wearing the most high tech foul weather gear, do ocean rowers need it?
 
