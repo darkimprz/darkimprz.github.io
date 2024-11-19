@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: default
 title:  "Foul Weather Jackets - First Observations"
 date:   2018-4-18
 nav_order: date
 categories: jekyll update
-parent: The Basics
+parent: Ocean Rowing Basics
 ---
 
 April 19, 2018

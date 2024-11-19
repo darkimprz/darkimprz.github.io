@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Meal Repetition Part 2"
 categories: basics
 nav_order: date

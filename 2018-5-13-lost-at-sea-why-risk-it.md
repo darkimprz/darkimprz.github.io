@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Lost at Sea Why Risk It"
 categories: basics
 nav_order: date

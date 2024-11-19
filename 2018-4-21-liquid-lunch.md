@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Liquid Lunch"
 categories: basics
 nav_order: date

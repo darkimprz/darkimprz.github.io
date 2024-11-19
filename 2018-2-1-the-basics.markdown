@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Ocean Rowing Basics"
 date:   2018-2-1
 nav_order: date

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Food Time: Meal Pattern Repitition"
 categories: basics
 nav_order: date
