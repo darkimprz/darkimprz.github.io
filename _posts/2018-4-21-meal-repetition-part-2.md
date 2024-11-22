@@ -1,20 +1,20 @@
 ---
-layout: default
-title:  "Meal Repetition Part 2"
+layout: post
+title:  "Meal Pattern Repetition: Part 2"
 categories: basics
+date: April 21, 2018
 nav_order: date
 parent: Ocean Rowing Basics
+tag: food
 ---
-Meal Pattern Repetition: Part 2
-April 21, 2018 in Food
-This is Part 2 of Meal Pattern Repitition. See Part 1 for the beginning.
+
+This is Part 2 of Meal Pattern Repetition. See [Part 1](/meal-pattern-repetition/) for the beginning.
 
    This is a two part process as I am working with 2 vendors. We'll first go through how I added in variety within the first vendor (5 options) then how I layered the second vendor's options on top of the initial strategy. 
 
 FYI, An alphabetical letter has been designated to each meal type. Similar to the examples in Part 1 but in grid format. 
+![1st Vendor Food Options with Grid](/assets/images/meal-2/meal_pattern_repitition..png)
 
-Image: 1st Vendor Food Options with Grid
-Image: 1st Vendor Food Options with Grid
 
 In Image 1, notice only 4 meals are entered for each day. I decided to include one meal from the second vendor each day. This was done because with 5 options as shown in Part 1, Example 1, meal variety over days didn't exist. This is also true over weeks with adding in only 1 meal from the second vendor. 
 
@@ -27,9 +27,9 @@ In the Image, day 4, 8, 12, 16, N+4  will be populated by the second vendor's fo
 This next image is what I call, the Nested Diagram, it shows the meals provided by both vendors. As this was a template for my own planning, I switched to using '1's to note a meal without regard to vendor. As a side note the 45th day's second to last meal breaks the pattern. This was a product of ordering a even number from the second vendor.
 
 For meal planning patterns this is where i'm at currently. Look for a future post on further food selection including snacks. I'll also post up on how we're going to bag each day's rations once the food arrives. 
-
+![Nested Diagram](/assets/images/meal-2/meal_vendors_nesting.png)
 Image: Nested Diagram
-Image: Nested Diagram
+Image: 
 
 In the end i believe the meal plan as shown above provides:
 

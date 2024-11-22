@@ -1,9 +1,10 @@
 ---
-layout: default
-title:  "Food Time: Meal Pattern Repitition"
+layout: post
+title:  "Food Time: Meal Pattern Repetition"
 categories: basics
 nav_order: date
 parent: Ocean Rowing Basics
+permalink: /meal-pattern-repetition/
 ---
 
 
@@ -41,6 +42,6 @@ Day 3: EFABC
 Noticing that the second vendor has more than 1 flavor, means with little extra work here on land, I can greatly increase the variety with zero increase in complexity while on the water. Also this strategy lends itself to hedging against failed packaging and spoilage by adding in a second vendor's packaging process. 
 
 Let's say at this point, I took the idea of adding in the second vendor's food to increase my variety to heart. I went wild with adding in additional meals and ended up with the picture below. 
+![1st Vendor Food Options with Grid](/assets/images/meal-2/meal_pattern_repitition..png)
 
-meal_pattern_repitition..png
 I continue with this idea of adding in variety within each vendor and layering additional variety using both together. Keep reading about meal planning in Part 2. 

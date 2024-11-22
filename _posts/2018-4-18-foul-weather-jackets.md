@@ -1,13 +1,13 @@
 ---
-layout: default
+layout: post
 title:  "Foul Weather Jackets - First Observations"
 date:   2018-4-18
 nav_order: date
 categories: jekyll update
 parent: Ocean Rowing Basics
 ---
+![zhik-jackets](/assets/images/foul-weather-gear/zhik-jackets.png)
 
-April 19, 2018
 While we all want to look like a Volvo Ocean racer wearing the most high tech foul weather gear, do ocean rowers need it?
 
 I went to the Annapolis SailBoat Show to find out how extreme we need to go, to get the right gear. In the process, I learned alot about the features, models, and sizing differences. In this post I'll give an overview on the jackets that were on offer and my opinion.
