@@ -12,7 +12,8 @@ Ocean rowing information seems as hard to find as the training is to do. Exhaust
 Quick Navigation:
 
 Diet | Food | Rowing | Erg | Erg Training | Gear | Notable Ocean Rowers
-food_options.png
+![food options](/assets/images/basics/food_options.png)
+
 Diet and Body Weight Preparations
 My diet during the row will be made up of freeze dried meals (like above), snack bars, carb/protein powders, and supplements (arthritis, skin, basic vitamin, joint). 
 
@@ -38,9 +39,11 @@ Pasta with red pesto
 Oatmeal with flax seeds
 For a sense of what a meal looks like dry and cooked, see the pictures below. (*they're all better than you'd expect)
 
-(dry) Expedition Foods - Spaghetti Bolognese
+![(dry) Expedition Foods - Spaghetti Bolognese](/assets/images/basics/exped_foods_bolognese_dry.jpeg)
+
 (dry) Expedition Foods - Spaghetti Bolognese
 
+![(dry) Expedition Foods - Spaghetti Bolognese](/assets/images/basics/exped_foods_bolognese.jpeg)
 (wet/cooked) Organic Expedition Foods - Pasta with Red Pesto
 (wet/cooked) Organic Expedition Foods - Pasta with Red Pesto
 

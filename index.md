@@ -10,7 +10,7 @@ Many people know that I'm a rower but not many know that I started rowing becaus
 
 Seven years later and I fulfilled a dream of mine. It took 49 days 23 hours 15 minutes and everyone in my life investing their time to make crossing the Pacific Ocean by human power happen. 
 
-![Landing day](/assets/images/main/contentment.jpg?width=25)
+![Landing day](/assets/images/main/contentment.jpg?width="25")
 
 Take a look at some of the pictures from the trip. 
 

@@ -20,11 +20,12 @@ Getting in and out of the garments should not take any thought
 Garment should give range of motion that is near equal to rowing motion without jacket and pants.
 The vendors and the models that were looked at or referenced:
 
-Musto: HPX and MPX 
-Zhik: Isotak 2 Ocean and Race
-Gill: Ocean Racer and OS1
-Henri Lloyd: Off shore Elite and Pro
-Helly Hansen: Aegir Race and Ocean
+-Musto: HPX and MPX 
+-Zhik: Isotak 2 Ocean and Race
+-Gill: Ocean Racer and OS1
+-Henri Lloyd: Off shore Elite and Pro
+-Helly Hansen: Aegir Race and Ocean
+
 Observations:
 
 One of the first things that I found out was the difference in the cut between brands is pretty close in the Medium/ Large jacket. At six feet tall and 175 lbs. I was tight in the Medium jacket and far more comfortable in the Large across all brands. Zhik's Isotak 2 was the only jacket I would feel comfortable wearing as a Medium. But I would still go for a Large, if I was to buy this jacket as layering underneath could make the fit tighter. 
@@ -37,7 +38,8 @@ Stretching and simulating rowing in all the jackets was easy. The sleeve length 
 
 I would note that the most extreme versions of the jackets tended to be exceptionally long and on small rowing boats likely excessive. This included Helly Hansen Aegir Ocean and Musto HPX Pro.
 
-Jacket weight. Effectiveness of every ounce added to the jacket is hard for a non quantitative approach but I can at least note the two extremes in weight. Musto's HPX was the heaviest and Zhik's Isotak 2 (non ocean) was the lightest. Helly Hansen and Henri Lloyd were heavier but in the 'marina' with Zhik. Gill's jacket struck me as a typical heavy winter coat weight but was still lighter than Musto's. 
+Jacket weight. 
+Effectiveness of every ounce added to the jacket is hard for a non quantitative approach but I can at least note the two extremes in weight. Musto's HPX was the heaviest and Zhik's Isotak 2 (non ocean) was the lightest. Helly Hansen and Henri Lloyd were heavier but in the 'marina' with Zhik. Gill's jacket struck me as a typical heavy winter coat weight but was still lighter than Musto's. 
 
 A noticeable difference between the top two tiers of each company was the robustness of the exterior material used. I have no doubt that months on the sea would be attainable with the each brand's top tier jacket. Its a hard call on which tier to go with unless they both have the top tier material just in different quantities.  
 
