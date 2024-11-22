@@ -18,7 +18,7 @@ A previous ocean rower once told me that he was tired of chewing with the requir
 
 At the moment I believe I can find about 1000 calories in liquid snacks. This would leave 1000 calories to be found though snack bars but let's see how far we can get with liquids. 
 
-basic_liquid_plan.png
+![image](/assets/images/liquid-lunch/basic_liquid_plan.png)
 Here's a plan to have 5 servings a day of liquid snack over the entire trip. 
 
 Some basic math gives us the above chart and breaks it down into the below calorie requirement. 
@@ -31,12 +31,14 @@ From this chart we can also see that 225 servings will be needed to make the tri
 
 In the below picture I tried out a number of different scenarios to see what options might exist for using expensive powders vs. less expensive powders then changing the number and frequency of servings to offset cost. This model didn't work out as well as I had hoped. Also it would complex to implement while at sea. 
 
-complex_liquid_plan.png
+![image](/assets/images/liquid-lunch/complex_liquid_plan.png)
+
 The above picture while too complex for me, might work for others. However collapsing Liquid B and Liquid C into a single item might give variety (2 options vs. 1) . 
 
 My current thinking is to use 2 options. Switching to a view of the pricing and servings can inform us on what I've found for filling the two spots.
 
-liquid_prices.png
+![image](/assets/images/liquid-lunch/liquid_prices.png)
+
 In the above worksheet picture, 225 servings are broken down into two options, Milk Powder + Protein and Recovery (carb + protein) powder. 
 
 I based this off of price per calorie. I have done separate research as far as the quality of the calories and the nutrients that make up each supplement. 
