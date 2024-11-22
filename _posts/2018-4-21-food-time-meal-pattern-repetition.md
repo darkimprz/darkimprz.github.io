@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Food Time: Meal Pattern Repetition"
+title:  "Food Time: Meal Pattern Repitition"
 categories: basics
 nav_order: date
 parent: Ocean Rowing Basics

@@ -1,26 +1,31 @@
 ---
-layout: default
+layout: post
 title:  "Lost at Sea Why Risk It"
 categories: basics
 nav_order: date
 parent: Ocean Rowing Basics
+tags: rowing
 ---
 
+
+![image](/assets/images/lost-at-sea/IMG_2180.png)
 I’ve recently seen some commentary that Personal Locator Beacons (PLB) aren’t needed with Ocean Rowing adventures/ expeditions/ trips.
 
 I think that’s a foolish mindset and doesn’t acknowledge the many benefits that this personal device gives you.
 
 Every ocean going vessel should have an Emergency Position Indicating Radio Beacon (EPIRB), a supersized PLB that relays your GPS coordinates and the device ID (which has been registered to a vessel or person with PLBs).
 
-What is a EPIRB? Link
+![image](/assets/images/lost-at-sea/IMG_2181.jpg)
+
+What is a EPIRB? [Link](http://www.epirb.com/)
 
 The idea is that if you’re in grave danger, turning on this device can alert the US Coast Guard or national rescue organization that a situation is unfolding. This device is mobile, so if you have to ditch the vessel you’re on and step up into a life raft, you still have a way (although it is one way) to communicate your location with would be rescuers. EPIRBs have a bigger battery and bigger antenna than PLBs.
 PLB (left) vs. EPIRB (right) for size comparison
 
-PLB (left) vs. EPIRB (right) for size comparison
 
 A PLB is exactly the same thing but miniature and ideally worn by a crew member 24/7.
-IMG_2182.JPG
+
+![image](/assets/images/lost-at-sea/IMG_2182.jpg)
 
 So why do I think it’s foolish to rely solely on a vessels EPIRB? Let me list a few basic reasons:
 
