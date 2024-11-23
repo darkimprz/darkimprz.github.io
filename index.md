@@ -2,6 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+title: 
 layout: test-home
 ---
 
@@ -28,5 +29,6 @@ Seven years later and I fulfilled a dream of mine. It took 49 days 23 hours 15 m
 
 
 <p style="text-align:center;">Take a look at some of the pictures from the trip.</p>
- 
-[Photo Share](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.amazon.com_photos_share_Urf0zsD7F4jb7o30BdKvi4BUSpH43ZufEzmecTWgNDG&d=DwMBaQ&c=pLULRYW__RtkwsQUPxJVDGboCTdgji3AcHNJU0BpTJE&r=H4qOhdmXu44OfPlzZmycsOTi6SRvhexIeS_nVNHZwTc&m=51go8UiGfk1TYcRV8HLdn9hRanD1DI5-Amh8MIY-Uro&s=PtxPTcOdS1XQT1ysmCE-g58VaWiryIZuTE4xy9Xywkw&e=)
+<div style="text-align:center">
+<a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.amazon.com_photos_share_Urf0zsD7F4jb7o30BdKvi4BUSpH43ZufEzmecTWgNDG&d=DwMBaQ&c=pLULRYW__RtkwsQUPxJVDGboCTdgji3AcHNJU0BpTJE&r=H4qOhdmXu44OfPlzZmycsOTi6SRvhexIeS_nVNHZwTc&m=51go8UiGfk1TYcRV8HLdn9hRanD1DI5-Amh8MIY-Uro&s=PtxPTcOdS1XQT1ysmCE-g58VaWiryIZuTE4xy9Xywkw&e=" style="text-align:center">Photo Share</a>
+</div>
