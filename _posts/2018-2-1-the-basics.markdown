@@ -32,11 +32,11 @@ In addition to the detail provided here, I've written multiple blog posts about 
 
 The freeze dried meals are 800 calorie meals, and we'll be eating 5 of them a day over the course of the entire adventure. These meals come in a variety of flavors including:
 
-Lentils and Rice with Curry
-Black beans and rice with cheese and bell peppers 
-Rice with spicy sundries tomatoes 
-Pasta with red pesto 
-Oatmeal with flax seeds
+<p><small>Lentils and Rice with Curry</small></p>
+<p><small>Black beans and rice with cheese and bell peppers </small></p>
+<p><small>Rice with spicy sundries tomatoes </small></p>
+<p><small>Pasta with red pesto </small></p>
+-Oatmeal with flax seeds
 For a sense of what a meal looks like dry and cooked, see the pictures below. (*they're all better than you'd expect)
 
 ![(dry) Expedition Foods - Spaghetti Bolognese](/assets/images/basics/exped_foods_bolognese_dry.jpeg)
@@ -76,10 +76,15 @@ My normal workout is a 15km continuous row at 2:00 per 500 meters limiting mysel
 Example workout summary from a erg
 Example workout summary from a erg
 
-Early 2018, getting my meters in alone in the boathouse.&nbsp;
+Early 2018, getting my meters in alone in the boathouse.
 Early 2018, getting my meters in alone in the boathouse. 
 
 Joining a rowing club is far from the only way to become an ocean rower. Many other disciplines can bring much needed skill sets to the table and prove to be as valuable as knowing proper rowing form. Some other examples would be sailing, mountain climbing and other expedition sports, or even project management. Having great project management skills makes this multi discipline type of event much easier than just knowing how to row hard.
 
 Sponsorship Materials
+
 Here's the PDF used by the team to work with sponsors
+
+[Team Uniting Nations Sponsorship Package](/assets/files/UnitingNationsSponsorshipPack0927.pdf)
+
+![](/assets/images/basics/trio.png)
