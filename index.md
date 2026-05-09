@@ -14,7 +14,7 @@ layout: default
     src="assets/images/main/profile-pixel.png" 
     alt="profile">
 
-**Hi, I'm Robert,** I'm an engineering leader living in the Boston area. Building secure programs that enable businesses to move fast and grow, fascinates me. I've focused my career in financial services with startups and scaleups. I have experience scaling teams from zero and establishing right sized program management.
+**Hi**, **I'm Robert**. I'm an engineering leader living in the Boston area. Building secure programs that enable businesses to move fast and grow, fascinates me. I've focused my career in financial services with startups and scaleups. I have experience scaling teams from zero and establishing right sized program management.
 
 ---
 
