@@ -3,18 +3,26 @@ title: Robert Behny
 layout: default
 ---
 
+
+
+
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 70%;"
-    src="/assets/images/main/trio.png" 
-    alt="trio">
+    src="assets/images/main/profile-pixel.png" 
+    alt="profile">
+
+**Hi, I'm Robert,** I'm a security engineer living in the Boston area. I'm a security generalist and thrive on building secure programs that enable businesses to be secure while moving fast. I've focused the majority of my career in financial services with startups and scaleups. I have experience scaling teams from zero to multiple squads and establishing right sized program management.
+
+---
 
 
-Many people know that I'm a rower but not many know that I started rowing because I wanted to row an ocean. You could say I've never had a hard time with dreaming big. 
+**When I'm away from the office,** I enjoy taking on big challenges. In 2018, after seven years building rowing experience, I fulfilled a dream of mine. I led a four man team successfully across the Pacific Ocean (Monterey, CA to Oahu, HI) in the Great Pacific Race. We labored and raced for 49 days 23 hours 15 minutes finishing and winning the event outright. I'm extremely thankful for everyone in my life investing their time to make my dream of crossing the Pacific Ocean by human power happen.
 
-Seven years later and I fulfilled a dream of mine. It took 49 days 23 hours 15 minutes and everyone in my life investing their time to make crossing the Pacific Ocean by human power happen. 
+Many people know me as a rower but not many know that I started rowing because I wanted to row across an ocean. You could say I've never had a hard time with dreaming big. 
+
 
 <img 
     style="display: block; 
@@ -24,8 +32,17 @@ Seven years later and I fulfilled a dream of mine. It took 49 days 23 hours 15 m
     src="/assets/images/main/contentment.jpg" 
     alt="Landing Day">
 
+---
 
-<p style="text-align:center;">Take a look at some of the pictures from the trip.</p>
-<div style="text-align:center">
-<a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.amazon.com_photos_share_Urf0zsD7F4jb7o30BdKvi4BUSpH43ZufEzmecTWgNDG&d=DwMBaQ&c=pLULRYW__RtkwsQUPxJVDGboCTdgji3AcHNJU0BpTJE&r=H4qOhdmXu44OfPlzZmycsOTi6SRvhexIeS_nVNHZwTc&m=51go8UiGfk1TYcRV8HLdn9hRanD1DI5-Amh8MIY-Uro&s=PtxPTcOdS1XQT1ysmCE-g58VaWiryIZuTE4xy9Xywkw&e=" style="text-align:center">Photo Share</a>
-</div>
+**In Summer 2026,** I'll be crewing onboard Team Washington D.C. in the Clipper Round the World yacht race. I will be taking part in Leg 8, crossing the North Atlantic, over 6000 miles of racing in a one-make series of 70 foot Clipper boats. I'm eagerly looking forward to the challenge and once again venturing off into blue water. 
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%;"
+    src="assets/images/main/2026-clipper-dc.jpg" 
+    alt="heeled over">
+
+
+
