@@ -14,7 +14,7 @@ layout: default
     src="assets/images/main/profile-pixel.png" 
     alt="profile">
 
-**Hi, I'm Robert,** I'm a security engineer living in the Boston area. I'm a security generalist and thrive on building secure programs that enable businesses to be secure while moving fast. I've focused the majority of my career in financial services with startups and scaleups. I have experience scaling teams from zero to multiple squads and establishing right sized program management.
+**Hi, I'm Robert,** I'm an engineering leader living in the Boston area. Building secure programs that enable businesses to move fast and grow fascinates me. I've focused my career in financial services with startups and scaleups. I have experience scaling teams from zero to multiple squads and establishing right sized program management.
 
 ---
 
@@ -34,7 +34,7 @@ Many people know me as a rower but not many know that I started rowing because I
 
 ---
 
-**In Summer 2026,** I'll be crewing onboard Team Washington D.C. in the Clipper Round the World yacht race. I will be taking part in Leg 8, crossing the North Atlantic, over 6000 miles of racing in a one-make series of 70 foot Clipper boats. I'm eagerly looking forward to the challenge and once again venturing off into blue water. 
+**In Summer 2026,** I'll be crewing onboard Team Washington DC in the Clipper Round the World yacht race. I will be taking part in Leg 8, crossing the North Atlantic, over 6000 miles of racing in a one-make series of 70 foot Clipper boats. I'm eagerly looking forward to the challenge and once again venturing off into blue water. 
 
 <img 
     style="display: block; 
