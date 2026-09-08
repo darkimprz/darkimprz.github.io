@@ -29,9 +29,7 @@ Many people know me as a rower but not many know that I started rowing because I
 
 ---
 
-**In Summer 2026,** I'll be crewing onboard Team Washington DC in the Clipper Round the World yacht race. I will be taking part in Leg 8, crossing the North Atlantic, over 6000 miles of racing in a one-make series of 70 foot Clipper boats. I'm eagerly looking forward to the challenge and once again venturing off into blue water.
-
-Follow the race at <a href="https://clipperroundtheworld.geovoile.com/2025/tracker/">2025-2026 Clipper Race Tracker</a>.
+**In Summer 2026,** I crewed onboard Team Washington DC in Leg 8 of the Clipper Round the World yacht race. We crossed the North Atlantic and down the coast of the UK, over 4600 miles of racing in 25 days. This was aboard a one-make series of 70 foot Clipper sailboats. The challenge was overall rewarding and blue water sailing is uniquely beautiful.
 
 <img 
     style="display: block; 
